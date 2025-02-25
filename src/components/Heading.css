@@ -1,0 +1,18 @@
+
+nav { 
+    background-color: #f0f0f0;
+    border-bottom: 1px solid black;
+  }
+  
+  ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    padding: 0;
+    margin-left: 20px;
+  }
+  
+  li {
+    margin-right: 10px;
+  }
+  
